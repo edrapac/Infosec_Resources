@@ -67,6 +67,9 @@
 
 * <http://www.sans.edu/research/security-laboratory/article/hash-functions>
 
+## Reverse Engineering
+* http://pwnable.kr/ and http://reversing.kr/
+
 ## Miscellaneous 
 * <https://github.com/kbandla/APTnotes>
 
